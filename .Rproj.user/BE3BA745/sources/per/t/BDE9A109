@@ -1,0 +1,27 @@
+{
+    "id": "BDE9A109",
+    "path": "~/ShelbyHealth/ShelbyCounty/R/importExcel.R",
+    "project_path": "R/importExcel.R",
+    "type": "r_source",
+    "hash": "2363105144",
+    "contents": "",
+    "dirty": false,
+    "created": 1758490110999.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "41,0",
+        "scrollLine": "17"
+    },
+    "folds": "41|5|43|22|\n44|5|70|0|\n",
+    "lastKnownWriteTime": 1758506842,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1758510367771,
+    "read_only": false,
+    "read_only_alternatives": []
+}
